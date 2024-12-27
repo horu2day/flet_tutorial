@@ -8,7 +8,7 @@ Clean Architecture를 적용한 Python Flet 기반의 Todo 애플리케이션입
 
 1. 저장소 클론
 ```bash
-git clone <repository-url>
+git clone https://github.com/horu2day/flet_tutorial.git
 cd todo-app
 
 
